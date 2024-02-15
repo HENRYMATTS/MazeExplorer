@@ -1,0 +1,5 @@
+Use pip to install these  packages if you have them in your system. 
+They are essential for the code to work 
+
+pytorch ---> Deep  learning Framework
+Ursina   ---> python 3D Game Engine
